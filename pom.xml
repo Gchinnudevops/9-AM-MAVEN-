@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.196.188.64:8081/repository/vasanthi/</url>
+            <url>http://54.196.188.64:8081/repository/vasanthi_project/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
