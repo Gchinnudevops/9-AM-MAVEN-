@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.196.188.64:8081/repository/vijji/</url>
+            <url>http://172.31.80.56:8081/repository/vijji/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.196.188.64:8081/repository/vijji/</url>
+            <url>http://172.31.80.56:8081/repository/vijji/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
