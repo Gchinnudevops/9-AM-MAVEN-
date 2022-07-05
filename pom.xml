@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.196.188.64:8081/repository/vasanthi_project/</url>
+            <url>http://54.196.188.64:8081/repository/vijji/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.196.188.64:8081/repository/vasanthi-Snap/</url>
+            <url>http://54.196.188.64:8081/repository/vijji/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
